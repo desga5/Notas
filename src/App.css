@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.card button, .card  {
+  border-radius: 5px;
+}
+
+div{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+
+.card h5 {
+  font-weight: bold;
+}
+
+h2 {
+  text-align: center;
+  font-weight: bold;
+}
+
+.borrar {
+  color: rgb(255, 78, 78);
+}
